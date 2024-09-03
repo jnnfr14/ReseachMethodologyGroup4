@@ -1,5 +1,5 @@
 # ResearchMethodologyGroup4
-Title :Deep Learning and Review Sentiment Analysis for Hotel Recommendations System
+Title: Deep Learning and Review Sentiment Analysis for Hotel Recommendations System
 Authors :
 - Stefanie Angline Sanjaya
 - Jennifer

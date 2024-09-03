@@ -1,4 +1,4 @@
-# ResearchMethodologyGroup4
+# Researc hMethodology Group4
 Title: Deep Learning and Review Sentiment Analysis for Hotel Recommendations System
 Authors :
 - Stefanie Angline Sanjaya
@@ -6,5 +6,5 @@ Authors :
 - Ivan Sebastian Edbert
 - Derwin Suharto
 
-# this file is for research methodology final project
+# This file is for research methodology final project
 
